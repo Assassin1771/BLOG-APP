@@ -1,6 +1,6 @@
-## FLOW OF PROJECT
+# FLOW OF PROJECT
 
-# CREATING MODELS
+### CREATING MODELS
 
 1. Login on Graph CMS
 
@@ -13,8 +13,10 @@
    Comment:- Name, Email, Comment
    Post:- Title, Slug, Excerpt, Content, Image, Post, Relations(Author, Categories)
 
-# CREATING CONTENT
+### CREATING CONTENT
 
-1. Go in the content section and start adding some entries.
+Go in the content section and start adding some entries.
 
-Note: In order to add images, go into asset section in side bar.
+##### NOTE
+
+In order to add images, go into asset section in side bar.
