@@ -20,3 +20,9 @@ Go in the content section and start adding some entries.
 ##### NOTE
 
 In order to add images, go into asset section in side bar.
+
+### VSCODE
+
+npx create-next-app ./
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
