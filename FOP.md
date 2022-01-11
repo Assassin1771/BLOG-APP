@@ -7,10 +7,10 @@
 2. Create different models required for the project.
    (Author, Category, Comment, Post)
 
-3. Add respective fields for each model, with validations wherever required.
-   Author:- Name, Photo, Bio, Post
-   Category:- Name, Slug, Post
-   Comment:- Name, Email, Comment
+3. Add respective fields for each model, with validations wherever required. <br>
+   Author:- Name, Photo, Bio, Post <br>
+   Category:- Name, Slug, Post <br>
+   Comment:- Name, Email, Comment <br>
    Post:- Title, Slug, Excerpt, Content, Image, Post, Relations(Author, Categories)
 
 ### CREATING CONTENT
