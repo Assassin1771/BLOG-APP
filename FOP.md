@@ -26,3 +26,5 @@ In order to add images, go into asset section in side bar.
 npx create-next-app ./
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
+
+Install dependencies
