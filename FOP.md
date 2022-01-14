@@ -23,8 +23,6 @@ In order to add images, go into asset section in side bar.
 
 ### VSCODE
 
-npx create-next-app ./
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
+npx create-next-app -e with-tailwindcss ./
 
 Install dependencies
