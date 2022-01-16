@@ -1,7 +1,13 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
-import { PostCard, Categories, PostWidget, WantAPost } from "../components";
+import {
+  PostCard,
+  Categories,
+  PostWidget,
+  WantAPost,
+  Contact,
+} from "../components";
 import { getPosts } from "../services/index";
 import { FeaturedPosts } from "../sections";
 
@@ -30,6 +36,7 @@ export default function Home({ posts }) {
       </div>
 
       <WantAPost />
+      <Contact />
     </div>
   );
 }
