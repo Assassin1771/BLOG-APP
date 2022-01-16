@@ -22,15 +22,15 @@ const Contact = () => {
               <img
                 height="40px"
                 width="40px"
-                className="align-middle rounded-full ml-8 lg:ml-10"
-                src="https://diversity.ncsu.edu/wp-content/uploads/2020/09/linkedin.png"
+                className="align-middle rounded-full ml-8 lg:ml-10 hover:h-12 hover:w-12 hover:border-red-900 hover:border-2"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png"
               ></img>
             </a>
             <a href="https://github.com/Assassin1771" target="_blank">
               <img
                 height="40px"
                 width="40px"
-                className="align-middle rounded-full ml-4 lg:ml-6"
+                className="align-middle rounded-full ml-4 lg:ml-6 hover:h-12 hover:w-12 hover:border-red-900 hover:border-2"
                 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
               ></img>
             </a>
