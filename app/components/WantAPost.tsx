@@ -1,6 +1,6 @@
 import React from "react";
 
-const Footer = () => {
+const WantAPost = () => {
   return (
     <div>
       <div className="bg-white shadow-lg rounded-lg lg:p-8 mt-10 w-fit text-center m-auto">
@@ -25,4 +25,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default WantAPost;
