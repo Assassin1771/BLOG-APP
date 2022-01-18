@@ -14,7 +14,7 @@ const Contact = () => {
               </h1>
             </div>
           </div>
-          <div className="flex items-center lg:mb-0 lg:w-auto mr-8 items-center mt-none md:mt-1 lg:mt-2">
+          <div className="flex lg:mb-0 lg:w-auto mr-8 items-center mt-none md:mt-1 lg:mt-2">
             <a
               href="https://www.linkedin.com/in/tushar-garg-65663b190/"
               target="_blank"
