@@ -1,12 +1,10 @@
-# CRYPTOWORLD
+# SPORTS VILLA
 
-➤ A platform where users can view and track the information everything regarding the Crypto World.
+➤ A platform where users can find content related to the entire sports world.
 <br>
-➤ Users can view general crypto market information and even detailed information about each cryptocurrency.
+➤ Users can also see content related to a specific sport or event.
 <br>
-➤ Users can also see a graphical representation of crypto prices over a period of time.
-<br>
-➤ Visit the Website : https://cryptoworld-assassin1771.netlify.app/
+➤ Visit the Website : https://sports-villa-final.vercel.app/
 
 <br>
 <br>
