@@ -1,16 +1,18 @@
 # CRYPTOWORLD
 
-<br><br>  
 ➤ A platform where users can view and track the information everything regarding the Crypto World.
 <br>
 ➤ Users can view general crypto market information and even detailed information about each cryptocurrency.
 <br>
 ➤ Users can also see a graphical representation of crypto prices over a period of time.
 <br>
-Visit the Website : https://cryptoworld-assassin1771.netlify.app/
+➤ Visit the Website : https://cryptoworld-assassin1771.netlify.app/
 
-<!-- <img src="SS/Screenshot (376).png"> -->
+<img src="SS/1.png">
 <br>
+<img src="SS/2.png">
+<br>
+<img src="SS/3.png">
 <br>
 <br>
 
