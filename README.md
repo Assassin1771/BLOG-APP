@@ -30,7 +30,8 @@ npm test
 
 To Start Server:
 <br>
-npm start
+cd app
+npm run dev
 
 To Visit App:
 <br>
