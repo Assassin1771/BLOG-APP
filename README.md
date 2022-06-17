@@ -78,7 +78,7 @@ This is an example of how to list things you need to use the software.
 
 ### Installation
 
-1. Get a free API Key for Voice Integration in your project at [Speechly](https://www.speechly.com/) .
+1. Get GraphCMS Connection URL at [GraphCMS](https://graphcms.com/)
 2. Clone the repository
    ```sh
    git clone https://github.com/Assassin1771/SPORTS-VILLA.git
@@ -88,7 +88,7 @@ This is an example of how to list things you need to use the software.
    cd app
    npm install 
    ```
-4. Enter your API in `index.js`
+4. Enter Connection URI in client directory.
 5. Run Project
    ```
    npm run dev
